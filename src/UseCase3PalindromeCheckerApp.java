@@ -6,7 +6,7 @@ public class UseCase3PalindromeCheckerApp {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter a string: ");
+        System.out.print("Enter a string Name: ");
         String original = scanner.nextLine();
         String input = original.toLowerCase();
 
